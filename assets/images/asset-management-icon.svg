@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Building -->
+    <path d="M25 60V35L40 25L55 35V60H25Z" stroke="#006241" stroke-width="2"/>
+    <path d="M35 60V45H45V60" stroke="#006241" stroke-width="2"/>
+    <!-- Gear -->
+    <circle cx="60" cy="20" r="8" stroke="#006241" stroke-width="2"/>
+    <path d="M60 16V12M60 28V32M68 20H72M48 20H44" stroke="#006241" stroke-width="2"/>
+    <path d="M65 15L68 12M65 25L68 28M55 25L52 28M55 15L52 12" stroke="#006241" stroke-width="2"/>
+</svg> 

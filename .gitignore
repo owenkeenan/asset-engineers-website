@@ -1,0 +1,12 @@
+# Dependencies and build files
+node_modules/
+.env
+.DS_Store
+*.log
+dist/
+build/
+.cache/
+
+# Large media files
+assets/video/*.mp4
+*.mp4

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Building -->
+    <path d="M20 60V30L40 20L60 30V60H20Z" stroke="#006241" stroke-width="2"/>
+    <path d="M30 60V40H50V60" stroke="#006241" stroke-width="2"/>
+    <!-- Magnifying Glass -->
+    <circle cx="55" cy="25" r="8" stroke="#006241" stroke-width="2"/>
+    <line x1="61" y1="31" x2="65" y2="35" stroke="#006241" stroke-width="2"/>
+</svg> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Document -->
+    <path d="M25 20H55L65 30V60H25V20Z" stroke="#006241" stroke-width="2"/>
+    <path d="M55 20V30H65" stroke="#006241" stroke-width="2"/>
+    <line x1="35" y1="40" x2="55" y2="40" stroke="#006241" stroke-width="2"/>
+    <line x1="35" y1="50" x2="55" y2="50" stroke="#006241" stroke-width="2"/>
+    <!-- Checkmark -->
+    <circle cx="60" cy="25" r="5" stroke="#006241" stroke-width="2"/>
+    <path d="M58 25L60 27L63 24" stroke="#006241" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
