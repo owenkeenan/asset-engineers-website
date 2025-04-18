@@ -8,5 +8,5 @@ build/
 .cache/
 
 # Large media files
-assets/video/*.mp4
 *.mp4
+!assets/video/Hero-Banner.mp4
