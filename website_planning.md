@@ -118,16 +118,22 @@
    - ✅ Deploy static version of website
      - Site successfully deployed to assetengineers.com.au
      - Both www and non-www versions working
-   - Set up backup system
+   - ✅ Set up backup system
+     - Implemented daily automated backups via GitHub Actions
+     - 30-day retention period
+     - Manual trigger option available
    - ✅ Verify site is working on all devices
-   - Set up monitoring
+   - ✅ Set up monitoring
+     - Implemented 15-minute interval checks via GitHub Actions
+     - Automatic issue creation for downtime alerts
+     - Manual check option available
 
-4. SEO & Performance Optimization
+4. SEO & Performance Optimization [IN PROGRESS]
    - Implement SEO best practices:
-     - Add meta descriptions
-     - Optimize image alt tags
-     - Add sitemap.xml
-     - Add robots.txt
+     - ✅ Add meta descriptions
+     - ✅ Optimize image alt tags
+     - ✅ Add sitemap.xml
+     - ✅ Add robots.txt
    - Optimize performance:
      - Compress images and video
      - Minify CSS and JavaScript
