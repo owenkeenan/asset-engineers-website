@@ -1,0 +1,16 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://assetengineers.com.au/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Allow important assets
+Allow: /assets/images/
+Allow: /assets/photos/
+Allow: /assets/logos/ 
