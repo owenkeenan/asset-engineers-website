@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "Asset Engineers Website",
   "scripts": {
+    "build:scss": "sass src/styles.scss styles.css --no-source-map --style=expanded",
     "minify:css": "cleancss -o styles.min.css styles.css",
     "minify:js": "uglifyjs assets/js/*.js -o assets/js/main.min.js",
-    "build": "npm run minify:css && npm run minify:js",
+    "build": "npm run build:scss && npm run minify:css && npm run minify:js",
     "start": "http-server -p 3000 -c-1"
   },
   "devDependencies": {
     "clean-css-cli": "^5.6.3",
     "uglify-js": "^3.17.4",
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "sass": "^1.64.0"
   }
 } 
